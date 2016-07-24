@@ -1,5 +1,50 @@
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
+.install {
+background:    #fff;
+border:        1px solid #668cff;
+border-radius: 5px;
+color:         #668cff;
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+float:         right!important;
+transform: translate(0%, -50%);
+}
+
+.icon {
+border:        0px solid blue;
+border-radius: 15px;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   none;
+float:         left!important;
+width:         80px;
+height:        80px;
+}
+
+.txt {
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 24px/1 "Calibri", sans-serif;
+}
+
+.meta {
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 "Calibri", sans-serif;
+}
+
+.app {
+background:    #fff;
+padding:       20px 20px;
+border:        1px solid #000;
+border-radius: 5px;
+
+}
+
 /**
  * 1. Set default font family to sans-serif.
  * 2. Prevent iOS text size adjust after orientation change, without disabling
@@ -878,4 +923,3 @@ footer a:hover {
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
-
