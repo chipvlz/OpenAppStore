@@ -6,8 +6,8 @@ border:        1px solid #668cff;
 border-radius: 5px;
 color:         #668cff;
 display:       inline-block;
-padding:       8px 20px;
-font:          normal 700 24px/1 "Calibri", sans-serif;
+padding:       8px 3vw;
+font:          normal 700 4vw/1 "Calibri", sans-serif;
 text-align:    center;
 text-shadow:   none;
 float:         right!important;
@@ -16,19 +16,19 @@ transform: translate(0%, -50%);
 
 .icon {
 border:        0px solid blue;
-border-radius: 15px;
+border-radius: 1vw;
 font:          normal 700 24px/1 "Calibri", sans-serif;
 text-align:    center;
 text-shadow:   none;
 float:         left!important;
-width:         80px;
-height:        80px;
+width:         7vw;
+height:        7vw;
 }
 
 .txt {
 display:       inline-block;
 padding:       8px 20px;
-font:          normal 700 24px/1 "Calibri", sans-serif;
+font:          normal 700 5vw/1 "Calibri", sans-serif;
 }
 
 .meta {
